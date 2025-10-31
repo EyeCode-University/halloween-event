@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="border-radius:15px" >
   <img src="/poster.png" alt="Halloween Dev Event Poster" width="600">
 </p>
 
