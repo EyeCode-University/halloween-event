@@ -1,5 +1,5 @@
 <div align="center" >
-# 🎃 Halloween Dev Event 2025 👻  
+<h1>🎃 Halloween Dev Event 2025 👻  </h1>
 </div>
 <p align="center" >
   <img src="/event.png" alt="Halloween Dev Event Poster" width="600">
