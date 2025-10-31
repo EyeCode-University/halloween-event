@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="/poster.png" alt="Halloween Dev Event Poster" width="800">
+</p>
 # 🎃 Halloween Dev Event 2025 👻  
 
 Добро пожаловать на самое **тёмное и креативное событие семестра** — **Halloween Dev Event 2025**!  
