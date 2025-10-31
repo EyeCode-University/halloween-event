@@ -1,6 +1,3 @@
-<p align="center" style="border-radius:15px" >
-  <img src="/poster.png" alt="Halloween Dev Event Poster" width="600">
-</p>
 
 # 🎃 Halloween Dev Event 2025 👻  
 
@@ -27,3 +24,6 @@
 Автор(ы) самого оригинального и впечатляющего проекта получит **секретный приз** 🎁  
 
 > 💬 *Пусть твой код будет мистическим, а баги — всего лишь призраками прошлого.*
+<p align="center" style="border-radius:15px" >
+  <img src="/poster.png" alt="Halloween Dev Event Poster" width="600">
+</p>
