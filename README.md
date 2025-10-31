@@ -1,7 +1,8 @@
 
-# 🎃 Halloween Dev Event 2025 👻  
 
-<p align="center" style="border-radius:15px" >
+
+<p align="center" >
+# 🎃 Halloween Dev Event 2025 👻  
   <img src="/poster.png" alt="Halloween Dev Event Poster" width="600">
 </p>
 
